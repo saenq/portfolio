@@ -1,0 +1,65 @@
+<svg width="357" height="234" viewBox="0 0 357 234" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path data-ignore="true" d="M337.3 225.4H24.1C19.9 225.4 16.5 222 16.5 217.8V7.6C16.5 3.4 19.9 0 24.1 0H337.3C341.5 0 344.9 3.4 344.9 7.6V217.7C345 222 341.5 225.4 337.3 225.4Z" fill="#00D5E4"/>
+<path data-ignore="true" d="M325.6 223.1H34.6C30.4 223.1 27 219.7 27 215.5V20.6C27 16.4 30.4 13 34.6 13H325.6C329.8 13 333.2 16.4 333.2 20.6V215.5C333.3 219.6 329.8 223.1 325.6 223.1Z" fill="#065090"/>
+<line x1="46" y1="32" x2="50" y2="32" stroke="#5E94C1" stroke-width="4"/>
+<line x1="75" y1="31.5" x2="114" y2="31.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46.0001" y1="42" x2="50.0001" y2="42" stroke="#5E94C1" stroke-width="4"/>
+<path d="M75.0001 41.5L102 41.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M115 41.5L219 41.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M228 41.5L283 41.5" stroke="#FF6452" stroke-width="5"/>
+<line x1="46" y1="52" x2="50" y2="52" stroke="#5E94C1" stroke-width="4"/>
+<path d="M85.0001 51.5L151 51.5" stroke="#00D050" stroke-width="5"/>
+<path d="M170 51.5L268 51.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="62" x2="50" y2="62" stroke="#5E94C1" stroke-width="4"/>
+<path d="M75.0001 61.5L167 61.5" stroke="#FF6452" stroke-width="5"/>
+<path d="M175 61.5L241 61.5" stroke="#00D5E4" stroke-width="5"/>
+<line x1="46" y1="72" x2="50" y2="72" stroke="#5E94C1" stroke-width="4"/>
+<path d="M85.0001 71.5L151 71.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="82" x2="50" y2="82" stroke="#5E94C1" stroke-width="4"/>
+<path d="M75.0001 81.5L171 81.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="92" x2="50" y2="92" stroke="#5E94C1" stroke-width="4"/>
+<path d="M75.0001 91.5L141 91.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="102" x2="50" y2="102" stroke="#5E94C1" stroke-width="4"/>
+<path d="M95.0001 101.5L204 101.5" stroke="#FF6452" stroke-width="5"/>
+<path d="M215 101.5L251 101.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M265 101.5L301 101.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="112" x2="50" y2="112" stroke="#5E94C1" stroke-width="4"/>
+<path d="M105 111.5L150 111.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="122" x2="50" y2="122" stroke="#5E94C1" stroke-width="4"/>
+<path d="M105 121.5L165 121.5" stroke="#FF6452" stroke-width="5"/>
+<path d="M185 121.5L251 121.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M265 121.5L293 121.5" stroke="#FF6452" stroke-width="5"/>
+<line x1="46" y1="132" x2="50" y2="132" stroke="#5E94C1" stroke-width="4"/>
+<path d="M75.0001 131.5L116 131.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="142" x2="50" y2="142" stroke="#5E94C1" stroke-width="4"/>
+<path d="M75.0001 141.5L141 141.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="152" x2="50" y2="152" stroke="#5E94C1" stroke-width="4"/>
+<path d="M105 151.5L224 151.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M235 151.5L309 151.5" stroke="#00D5E4" stroke-width="5"/>
+<line x1="46" y1="162" x2="50" y2="162" stroke="#5E94C1" stroke-width="4"/>
+<path d="M105 161.5L146 161.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M155 161.5L196 161.5" stroke="#00D050" stroke-width="5"/>
+<path d="M205 161.5L246 161.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="172" x2="50" y2="172" stroke="#5E94C1" stroke-width="4"/>
+<path d="M75.0001 171.5L141 171.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="182" x2="50" y2="182" stroke="#5E94C1" stroke-width="4"/>
+<path d="M95 181.5L161 181.5" stroke="#00D050" stroke-width="5"/>
+<path d="M173 181.5L238 181.5" stroke="#00D050" stroke-width="5"/>
+<line x1="46" y1="192" x2="50" y2="192" stroke="#5E94C1" stroke-width="4"/>
+<path d="M95.0001 191.5L192 191.5" stroke="#FCFDFD" stroke-width="5"/>
+<line x1="46" y1="202" x2="50" y2="202" stroke="#5E94C1" stroke-width="4"/>
+<path d="M95 201.5L144 201.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M171 201.5L209 201.5" stroke="#FCFDFD" stroke-width="5"/>
+<path d="M285 202L267 194L285 186" stroke="#FCFDFD" stroke-width="3" stroke-linejoin="bevel"/>
+<path d="M288.5 207.5L296.5 179.5" stroke="#FCFDFD" stroke-width="3"/>
+<path d="M300 202L318 194.5L300 186" stroke="#FCFDFD" stroke-width="3" stroke-linejoin="bevel"/>
+<path data-ignore="true" d="M337 233.7H20C9 233.7 0 224.7 0 213.7H357C357 224.8 348 233.7 337 233.7Z" fill="#00BBD3"/>
+<path data-ignore="true" d="M354.3 223.7C356 220.8 357 217.3 357 213.7H0C0 217.3 1 220.8 2.7 223.7H354.3Z" fill="#15D7E2"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="357" height="233.7" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,9 +1,8 @@
 # ignore everything in the root except the "wp-content" directory.
 !portfolio/wp-content/
-portfolio-app/
 # ignore everything in the "wp-content" directory, except:
 # "mu-plugins", "plugins", "themes" directory
-wp-content/*
+portfolio/wp-content/*
 !portfolio/wp-content/mu-plugins/
 !portfolio/wp-content/plugins/
 !portfolio/wp-content/themes/
@@ -15,7 +14,8 @@ portfolio/wp-content/plugins/hello.php
 portfolio/wp-content/themes/twenty*/
 
 # ignore node dependency directories
-node_modules/
+portfolio-app/node_modules/
+portfolio-app/dist/
 
 # ignore log files and databases
 *.log

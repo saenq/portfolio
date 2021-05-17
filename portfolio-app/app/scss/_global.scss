@@ -1,0 +1,144 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-size: inherit;
+}
+
+body {
+    // min-width: 320px;
+    // overflow-x: hidden;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    background-color: #f9f9f9;
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    line-height: 26px;
+
+    color: #727272;
+}
+
+.container {
+    max-width: 1140px;
+    padding: 0 15px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.title {
+    color: #000000;
+    font-weight: 500;
+    line-height: 120%;
+    &--center {
+        text-align: center;
+    }
+    &--small {
+        font-size: 24px;
+    }
+    &--medium {
+        font-size: 32px;
+    }
+    &--large {
+        font-size: 48px;
+    }
+}
+
+.text {
+    &--center {
+        text-align: center;
+    }
+}
+
+.btn {
+    // display: inline-block;
+    background-color: #34547a;
+    color: #ffffff;
+    letter-spacing: 0.1em;
+
+    padding: 20px 41px;
+
+    transition: background-color 0.3s;
+
+    border: none;
+
+    &:hover {
+        background-color: #273f5c;
+    }
+}
+
+.link {
+    color: #34547A;
+    border-bottom: 1px solid rgba(#34547A,.25);
+    &:hover{
+        color: #000;
+        border-bottom: 1px solid rgba(#000,1);
+    }
+}
+
+.external{
+    background: url('assets/images/external_link.svg');
+    background-position: center right;
+    background-repeat: no-repeat;
+    padding-right: 13px;
+    color: #000;
+    &:hover{
+        text-decoration: underline;
+    }
+}
+
+.decor {
+    &--bg-part {
+        position: relative;
+        &::before {
+            content: "";
+            height: 435px;
+            width: 100%;
+            position: absolute;
+            top: 0;
+            background-color: #eeeff1;
+        }
+    }
+
+    &--bg {
+        background-color: #eeeff1;
+    }
+
+    &--line-top {
+        position: relative;
+        &::before {
+            content: "";
+            border-top: 1px solid #e0e0e0;
+            position: absolute;
+            top: 0;
+            width: 100%;
+        }
+    }
+}

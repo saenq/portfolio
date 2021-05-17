@@ -1,0 +1,146 @@
+@media (max-width: 1024px) {
+  .stack .slick-track {
+    display: flex;
+    align-items: center;
+  }
+
+  .stack .slick-slide {
+    margin: 0 20px;
+  }
+  .project__slider-nav .slick-list {
+    margin: 0 -10px;
+  }
+  
+  .project__slider-nav .slick-slide {
+    margin: 0 10px;
+  }  
+
+  .contacts__inner {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .contacts__info {
+    margin-bottom: 50px;
+  }
+  .project__inner {
+    grid-template-columns: 1fr;
+  }
+  .project__gallery {
+    grid-row: auto;
+  }
+
+  .project__title {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 960px) {
+  .projects__items {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 40px;
+  }
+  .card:last-child:nth-child(odd) {
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  .first-screen__img {
+    width: 250px;
+  }
+  .numbers {
+    display: none;
+  }
+}
+
+@media (max-width: 640px) {
+  .projects__items {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .card:last-child:nth-child(odd) {
+    display: flex;
+  }
+}
+
+@media (max-width: 570px) {
+  .first-screen__inner {
+    flex-direction: column;
+    padding: 50px 0 75px;
+  }
+
+  .first-screen__img {
+    width: 357px;
+    margin-bottom: 30px;
+  }
+
+  .first-screen__body {
+    width: auto;
+    margin: 0;
+    text-align: center;
+  }
+
+  .first-screen__title {
+    margin-bottom: 30px;
+  }
+
+  .first-screen__text {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 500px) {
+  .project__btns {
+    display: inline-flex;
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .project__btn + .project__btn {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+
+  .feedback-popup {
+    padding: 40px;
+  }
+}
+
+@media (max-width: 460px) {
+  .menu__item + .menu__item {
+    margin-left: 25px;
+  }
+
+  .form__box {
+    flex-direction: column;
+    .wpcf7-form-control-wrap {
+      width: 100%;
+      margin-bottom: 15px;
+    }
+  }
+
+  // .form__input {
+  //   width: 100%;
+  //   margin-bottom: 15px;
+  // }
+}
+
+@media (max-width: 400px) {
+  .container {
+    padding: 0 10px;
+  }
+  .header__inner {
+    justify-content: center;
+  }
+
+  .logo {
+    display: none;
+  }
+
+  .first-screen__img {
+    width: 290px;
+  }
+}
+
+@media (max-width: 350px) {
+}
